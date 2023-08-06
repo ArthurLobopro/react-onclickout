@@ -1,0 +1,20 @@
+{
+  "name": "react-clickout",
+  "author": "Arthur Lobo",
+  "version": "1.0.0",
+  "description": "React wrapper component to handle click outside of a component",
+  "devDependencies": {
+    "@types/react": "^18.2.18",
+    "@types/react-dom": "^18.2.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.1.6"
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  }
+}
