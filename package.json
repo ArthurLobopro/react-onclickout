@@ -1,7 +1,7 @@
 {
   "name": "@arthur-lobo/react-onclickout",
   "author": "Arthur Lobo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React wrapper component to handle click outside of a component",
   "license": "MIT",
   "scripts": {
@@ -24,5 +24,8 @@
       "require": "./dist/index.js",
       "types": "./dist/index.d.ts"
     }
-  }
+  },
+  "files": [
+    "dist"
+  ]
 }
